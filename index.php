@@ -1,5 +1,14 @@
 <!DOCTYPE html>
-<head><title>Hello</title>
+<head><title>About Me</title>
 </head>
-<body>World</body>
+<body>
+  <main>
+    <article>
+      <header>
+        <h1>Jonah Cornista</h1>
+        <h2>BSIT-1</h2>
+      </header>
+    </article>
+  </main>
+</body>
 </html>
